@@ -19,6 +19,6 @@
     "udp_timeout": 60,
     "dns_ipv6": false,
     "connect_verbose_info": 0,
-    "redirect": ["bing.com", "www.cloudfront.com:443"],
+    "redirect": ["bing.com", "cloudfront.com:443"],
     "fast_open": false
 }
