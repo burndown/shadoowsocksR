@@ -5,7 +5,7 @@
 
 
     "password": "Killgfw!",
-    "method": "",
+    "method": "none",
     "protocol": "auth_chain_a",
     "protocol_param": "32",
     "obfs": "tls1.2_ticket_auth_compatible",
