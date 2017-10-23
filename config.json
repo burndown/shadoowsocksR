@@ -5,8 +5,8 @@
 
 
     "password": "Killgfw!",
-    "method": "aes-256-ctr",
-    "protocol": "auth_aes128_md5",
+    "method": "",
+    "protocol": "auth_chain_a",
     "protocol_param": "32",
     "obfs": "tls1.2_ticket_auth_compatible",
     "obfs_param": "",
