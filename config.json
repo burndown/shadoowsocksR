@@ -19,6 +19,6 @@
     "udp_timeout": 60,
     "dns_ipv6": false,
     "connect_verbose_info": 0,
-    "redirect": ["*:443#127.0.0.1:4444"],
+    "redirect": ["*:443#172.17.0.1:80"],
     "fast_open": false
 }
