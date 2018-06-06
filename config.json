@@ -19,6 +19,6 @@
     "udp_timeout": 60,
     "dns_ipv6": false,
     "connect_verbose_info": 0,
-    "redirect": ["*:80#172.17.0.1:2222"],
+    "redirect": ["*:58388#172.17.0.1:2222"],
     "fast_open": false
 }
