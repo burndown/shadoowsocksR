@@ -28,4 +28,4 @@ WORKDIR $WORK/shadowsocksr-$BRANCH/shadowsocks
 
 
 EXPOSE $SERVER_PORT
-CMD python server.py -c /tmp/ssr-config.json
+CMD python server.py -c /etc/ssr/user-config.json
